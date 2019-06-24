@@ -1,0 +1,1 @@
+{"type":"Sprite","props":{"y":0,"x":0,"width":100,"var":"touzi","texture":"image/1.png","presetID":1,"isPresetRoot":true,"height":100},"compId":14,"child":[{"type":"Script","props":{"rollTime":60,"rollGap":5,"presetID":2,"runtime":"script/component/randomTouz.js"},"compId":15}],"loadList":["image/1.png"],"loadList3D":[]}

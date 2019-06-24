@@ -1,0 +1,1 @@
+{"type":"Image","props":{"zOrder":5,"y":0,"x":0,"skin":"images/ships/ship_me_1.png","presetID":1,"name":"ShipMove","isPresetRoot":true,"anchorY":0.5,"anchorX":0.5},"compId":39,"child":[{"type":"Script","props":{"realStartX":114,"realEndX":580,"presetID":2,"runtime":"components/repeatMove.js"},"compId":40}],"loadList":["images/ships/ship_me_1.png"],"loadList3D":[]}

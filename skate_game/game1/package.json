@@ -1,0 +1,15 @@
+{
+  "name": "skate_game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "c2runtime.js",
+  "scripts": {
+    "run": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
