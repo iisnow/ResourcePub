@@ -15,11 +15,11 @@
   "author": "zyr17",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^4.1.1",
+    "electron": "^11.5.0",
     "electron-packager": "^13.1.1"
   },
   "dependencies": {
-    "electron": "^4.1.1",
+    "electron": "^11.5.0",
     "request": "^2.88.0"
   }
 }
